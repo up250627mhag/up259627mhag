@@ -6,6 +6,7 @@
 Próxima ingeniera en proceso. 💪
 
 *- [x] Actualizar mi perfil*
+
 *- [ ] Hacer la tarea*
 
 
