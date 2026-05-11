@@ -9,6 +9,6 @@ Próxima ingeniera en proceso. 💪
 
 *- [ ] Hacer la tarea*
 
-
+![Texto alternativo](https://i.pinimg.com/474x/f2/3d/ff/f23dffcac3bf56f9295415f21e89fb7d.jpg "Así me siento en estos momentos" )
   
 
